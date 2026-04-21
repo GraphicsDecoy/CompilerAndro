@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="vscode_bg">#FF1E1E1E</color>
+    <color name="vscode_panel">#FF252526</color>
+    <color name="vscode_accent">#FF007ACC</color>
+</resources>
